@@ -25,7 +25,11 @@ body {
     height: 100vh;
     overflow-x: hidden;
     font-family: var(--font);
+<<<<<<< HEAD
+    background-color:  white;
+=======
     background-color:  green;
+>>>>>>> e6c517a7b0bb546ab0c07b6f4a9248fc1c699ace
 }
 
 nav {
