@@ -25,6 +25,7 @@ body {
     height: 100vh;
     overflow-x: hidden;
     font-family: var(--font);
+    background-color: red;
 }
 
 nav {
