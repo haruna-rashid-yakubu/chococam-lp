@@ -143,9 +143,10 @@ nav>ul>li>a:hover {
     width: 100%;
     height: 100%;
     background-image: url(../img/award.png);
-    background-size: contain;
+    /* background-size: contain;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center; */
+    background:url(../img/award.png) center/contain no-repeat ;
 }
 
 .award-text {
