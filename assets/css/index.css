@@ -73,7 +73,7 @@ nav>ul>li>a:hover {
 .button>button {
     width: 12rem;
     height: 5rem;
-    font-size: 1.8rem;
+    font-size: 2rem;
     font-weight: bold;
     color: var(--text-button);
     background: var(--button);
@@ -106,6 +106,7 @@ nav>ul>li>a:hover {
 
 .hero-text>p {
     width: 80%;
+    font-size: 2rem;
 }
 
 
