@@ -146,6 +146,7 @@ nav>ul>li>a:hover {
     background-repeat: no-repeat;
     background-position: center;
 }
+
 .award-text {
     flex: 3;
     width: 100%;
@@ -164,4 +165,26 @@ nav>ul>li>a:hover {
 .award-text>p {
     font-size: 2rem;
     width: 80%;
+}
+
+.chiffres {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 60%;
+    background-color: var(--primary);
+    color: white;
+    margin: 1rem 0;
+}
+
+.chiffres_>h1 {
+    font-size: 4rem;
+    font-weight: bold;
+    
+}
+
+.chiffres_>p {
+    font-size: 2rem;
+    
 }
